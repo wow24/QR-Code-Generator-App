@@ -1,5 +1,7 @@
 # QR-Code-Generator-App
-QR Code Generate App using Visual Besic.NET
+How to Generate a QR Code [qr code generator] in Visual Basic .NET using QRCoder
+
+QRCoder is a simple library, written in C#.NET, which enables you to create QR Codes. It hasn't any dependencies to other libraries and is available as .NET Framework and .NET Core
 
 WOW24! cover many topics such as Web Designing, Web Development, Programming, Database, WordPress, Blogging, Google AdSense, Digital Marketing and TipsNTicks. I was made many videos and project for different categories, and I will share another helpful tutorials and project for different topics.
 ＬＩＫＥ | ＣＯＭＭＥＮＴ | ＳＨＡＲＥ | ＳＵＢＳＣＲＩＢＥ & Join Our Other Social Media
