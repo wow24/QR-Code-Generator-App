@@ -1,0 +1,15 @@
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\bin\Debug\QR Code Generator App.exe.config
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\bin\Debug\QR Code Generator App.exe
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\bin\Debug\QR Code Generator App.pdb
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\bin\Debug\QR Code Generator App.xml
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\bin\Debug\QRCoder.dll
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\bin\Debug\System.Drawing.Common.dll
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.vbprojAssemblyReference.cache
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR_Code_Generator_App.QRCG.resources
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR_Code_Generator_App.Resources.resources
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.vbproj.GenerateResource.cache
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.vbproj.CoreCompileInputs.cache
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.vbproj.CopyComplete
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.exe
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.xml
+C:\Users\uskar\source\repos\QR Code Generator App\QR Code Generator App\obj\Debug\QR Code Generator App.pdb
